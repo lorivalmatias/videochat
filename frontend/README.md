@@ -21,7 +21,7 @@ npm install
 npm run dev
 ```
 
-Depois acesse no navegador: https://localhost:5173
+Depois acesse no navegador: https://192.168.0.109:5173
 
 ---
 

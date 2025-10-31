@@ -20,7 +20,7 @@ npm install
 npm start
 ```
 
-Servidor padrão: https://localhost:3001
+Servidor padrão: https://192.168.0.109:3001
 
 ---
 
