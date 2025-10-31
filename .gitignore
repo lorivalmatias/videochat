@@ -92,8 +92,6 @@ cypress/screenshots/
 cypress/videos/
 cypress/results/
 junit/
-*.xml
-*.json
 *.csv
 *.sqlite
 
