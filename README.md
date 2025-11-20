@@ -1,6 +1,6 @@
 # 🎥 VideoChat - WebRTC + Socket.IO
 
-Sistema completo de **chamada de vídeo P2P** desenvolvido com **WebRTC**, **React + TypeScript** no frontend e **Node.js + Socket.IO** como servidor de sinalização.
+Versão BETA de um sistema de **chamada de vídeo P2P** desenvolvido com **WebRTC**, **React + TypeScript** no frontend e **Node.js + Socket.IO** como servidor de sinalização.
 
 Permite conexão de vídeo **direta entre dois navegadores** (PC, celular, tablet), utilizando **HTTPS** e comunicação em tempo real para troca de `offer`, `answer` e `ICE candidates`.
 
